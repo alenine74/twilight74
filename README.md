@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Rahimi</h1>
 <h3 align="center">I learn and code</h3>
 
-- 🌱 I’m currently learning **Django** **Docker**
+- 🌱 I’m currently learning **Django**, **Docker**
 
 - 📫 How to reach me **cealirahimi74@gmail.com**
 
