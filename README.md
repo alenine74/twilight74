@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Rahimi</h1>
 <h3 align="center">I learn and code</h3>
 
-- 🌱 I’m currently learning **Django**, **Docker**
+- 🌱 I’m currently learning **Web3**, **Python**
 
 - 📫 How to reach me **cealirahimi74@gmail.com**
 
-- ⚡ Interested in **DevOps & Backend**
+- ⚡ Interested in **Crypto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
