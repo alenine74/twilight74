@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Rahimi</h1>
+<h1 align="center">Hi 👋, I'm Aleni</h1>
 <h3 align="center">I learn and code</h3>
 
 - 🌱 I’m currently learning **Web3**, **Python**
