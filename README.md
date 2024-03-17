@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web3**, **Python**
 
-- 📫 How to reach me **cealirahimi74@gmail.com**
+- 📫 How to reach me **alenine74@proton.com**
 
 - ⚡ Interested in **Crypto**
 
